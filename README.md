@@ -84,3 +84,4 @@ section.wrapper {
 ### Useful resources
 
 - [MDN Wed Docs - Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - This helped me for CSS Grid Layout. Not only did the documentation teach me the concepts of grid layout, but it provided a list of the grid CSS properties, which are readily available.
+- [Kevin Powell - Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU) - This video provides a nice walk-through of CSS grid layout in a practical manner.
